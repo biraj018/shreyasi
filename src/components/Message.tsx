@@ -10,21 +10,16 @@ const Message = () => {
         transition={{ duration: 0.8 }}
         className="max-w-2xl bg-white/80 backdrop-blur-sm p-8 rounded-xl shadow-xl text-center"
       >
-        <h1 className="text-3xl font-bold text-gray-800 mb-6">
-          Dear Madam Ji,
-        </h1>
         <p className="text-xl text-gray-700 leading-relaxed mb-6">
-          Even though we have met recently & i guess we know nothing about eachother but this
-          is my kindness to show you how much i value people.This is a way 
-          to show that our friendship just started and i hope we will be making some great memories together.
-          I'm starting this new year with a new friend as you and i hope our friendship will last forever.
-        </p>
-        <p className="text-lg text-pink-600 font-semibold">
-          and on your special day, i wish you the happiest birthday
+          Happiest Birthday Asmitaaa!!!
+Lots of good wishes to youuu on your special day..
+Even though we have met recently but still we know many things about each other. Our friendship just started and i hope we will be making some great memories together but ami toh kotha e bolina ehehehe 🤪 I'm starting this new year (24/11/2025)with a new friend as you and i hope our friendship will last forever.
+And I wish in future tui jeno hill side e permenently shift kore jas as your hobby!!!!!!
         </p>
       </motion.div>
     </div>
   );
 };
+
 
 export default Message;
