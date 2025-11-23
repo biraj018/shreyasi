@@ -17,7 +17,7 @@ const Surprise = () => {
     "Decorate",
     "Fly the Balloons",
     "A cute picture of yours ;)",
-    "Well, I Have a Message for"
+    "Well, I Have a Message for You"
   ];
 
   const handleClick = () => {
@@ -153,5 +153,6 @@ const Surprise = () => {
 };
 
 export default Surprise;
+
 
 
